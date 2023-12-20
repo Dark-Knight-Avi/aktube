@@ -1,0 +1,20 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Backend for youtube stream app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "javascript",
+    "youtube-clone",
+    "youtube clone",
+    "clone",
+    "stream app",
+    "backend"
+  ],
+  "author": "Aritra Karmakar",
+  "license": "ISC"
+}
